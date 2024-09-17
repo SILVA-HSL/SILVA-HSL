@@ -1,5 +1,18 @@
 # 🌟 Shanuka Lakshan
 
+# 🌟 Welcome to My GitHub! 👋
+
+Hello there! Thank you for stopping by. 😊
+
+${
+  (new Date().getHours() < 12)
+    ? "🌞 Good Morning! Ready to dive into some code?"
+    : (new Date().getHours() < 18)
+      ? "☀️ Good Afternoon! Let's create something awesome together."
+      : "🌙 Good Evening! Hope you're ready for some coding adventures."
+}
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SILVA-HSL&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/SILVA-HSL?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/SILVA-HSL?style=social)
@@ -43,26 +56,6 @@ _Current GPA: 3.82_
 
 **Lumbini College, Colombo**  
 _G.C.E. Advanced Level - Combined Mathematics (A), ICT (B), Physics (B)_  
-
-
----
-
-## 🌱 Current Projects
-
-### 🚍 Public Transport E-Ticketing System  
-A real-time bus/train booking and tracking system for public transportation, allowing users to book seats, get live vehicle tracking, and receive emergency updates.
-
-- **Role:** Project Leader, Full Stack Developer
-- **Tech Stack:** React JS, Bootstrap, ASP.NET Core, MSSQL, Azure
-- **Status:** Completed (2023 - 2024)
-
-### 🖌️ Bathik Wax Printing Machine  
-A hardware project using Arduino to automate traditional batik printing, replacing manual effort with precise CNC-driven patterns.
-
-- **Technologies:** Arduino, CNC Shield, Inkscape Software
-- **Status:** Completed (2022 - 2023)
-
----
 
 ## 📈 GitHub Stats
 
