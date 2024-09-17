@@ -1,18 +1,5 @@
 # 🌟 Shanuka Lakshan
 
-# 🌟 Welcome to My GitHub! 👋
-
-Hello there! Thank you for stopping by. 😊
-
-${
-  (new Date().getHours() < 12)
-    ? "🌞 Good Morning! Ready to dive into some code?"
-    : (new Date().getHours() < 18)
-      ? "☀️ Good Afternoon! Let's create something awesome together."
-      : "🌙 Good Evening! Hope you're ready for some coding adventures."
-}
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SILVA-HSL&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/SILVA-HSL?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/SILVA-HSL?style=social)
