@@ -41,8 +41,6 @@ Hello! I'm **Shanuka Lakshan**, I am a dedicated and **motivated undergraduate**
 _BSc.(Hons) in Information Technology_ (Reading - Expected 2026)<br/>
 _Current GPA: 3.82_  
 
-**Lumbini College, Colombo**  
-_G.C.E. Advanced Level - Combined Mathematics (A), ICT (B), Physics (B)_  
 
 ## 📈 GitHub Stats
 
