@@ -39,7 +39,7 @@ Hello! I'm **Shanuka Lakshan**, I am a dedicated and **motivated undergraduate**
 
 **University of Moratuwa, Sri Lanka**  
 _BSc.(Hons) in Information Technology_ (Reading - Expected 2026)<br/>
-_Current GPA: 3.82_  
+_Current GPA: 3.83_  
 
 
 ## 📈 GitHub Stats
