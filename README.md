@@ -18,22 +18,29 @@ Hello! I'm **Shanuka Lakshan**, I am a dedicated and **motivated undergraduate**
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-- **Web Development:**  
+- **Web Development & Frameworks:**  
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - **Databases:**  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Tools & IDEs:**  
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  ---
+- **Cloud & Platforms:**  
+  ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
 
 ## 📚 **Education**
 
@@ -41,6 +48,7 @@ Hello! I'm **Shanuka Lakshan**, I am a dedicated and **motivated undergraduate**
 _BSc.(Hons) in Information Technology_ (Reading - Expected 2026)<br/>
 _Current GPA: 3.83_  
 
+---
 
 ## 📈 GitHub Stats
 
@@ -58,7 +66,6 @@ _Current GPA: 3.83_
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shanuka.silva.370?mibextid=ZbWKwL)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shanuk.a?igsh=MTRkcjJraWpiZmVtZw==)
 
-
 📧 Email me at: [shanuka70710880@gmail.com](mailto:shanuka70710880@gmail.com)  
 📍 Based in Wattala, Sri Lanka
 
@@ -66,10 +73,6 @@ _Current GPA: 3.83_
 
 ## ✨ Fun Facts & Hobbies
 
-- 🎶 I love music.
-- 📚 I'm a fan of reading research articles and books.
+- 🎶 I love music.  
+- 📚 I'm a fan of reading research articles and books.  
 - 🏏 Cricket enthusiast – always up for a match!
-
-
-
-```html
