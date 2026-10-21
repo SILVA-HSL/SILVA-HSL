@@ -30,7 +30,7 @@ I'm looking for a **Software Engineering role** where I can build scalable, high
 
 🎓 **GPA 3.78 / 4.0** (First Class)<br/>
 🏅 **Dean's List**, 5 times<br/>
-🥇 **Top 10 Finalist**, Innovate with Ballerina (WSO2)
+
 
 </td>
 <td>
